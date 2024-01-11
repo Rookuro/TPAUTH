@@ -1,0 +1,22 @@
+
+
+{
+    "users":[{
+                "id": 777,
+                "name": "admin",
+                "password": "1234",
+                "admin": true
+            },
+            {
+                "id": 123,
+                "name":"bob",
+                "password": "12345",
+                "admin": false
+            },
+            {
+                "id": 321,
+                "name":"alice",
+                "password": "12345",
+                "admin": false
+            }]
+}
